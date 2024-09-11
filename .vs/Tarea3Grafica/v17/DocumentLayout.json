@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|c:\\users\\perro\\desktop\\para estudiar\\clon\\tarea3\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|solutionrelative:jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|solutionrelative:objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\parte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|solutionrelative:parte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|c:\\users\\perro\\desktop\\para estudiar\\clon\\tarea3\\centrodemasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|solutionrelative:centrodemasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|solutionrelative:escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|solutionrelative:poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73460A2-82D1-4F6C-9A58-EF73FA8A17FA}|Tarea3Grafica.csproj|solutionrelative:vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CentroDeMasa.cs",
+              "DocumentMoniker": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\CentroDeMasa.cs",
+              "RelativeDocumentMoniker": "CentroDeMasa.cs",
+              "ToolTip": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\CentroDeMasa.cs",
+              "RelativeToolTip": "CentroDeMasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:06:19.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "JsonHelper.cs",
+              "ToolTip": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\JsonHelper.cs",
+              "RelativeToolTip": "JsonHelper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T00:39:37.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vertice.cs",
+              "DocumentMoniker": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\Vertice.cs",
+              "RelativeDocumentMoniker": "Vertice.cs",
+              "ToolTip": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\Vertice.cs",
+              "RelativeToolTip": "Vertice.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:04:32.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Poligono.cs",
+              "DocumentMoniker": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\Poligono.cs",
+              "RelativeDocumentMoniker": "Poligono.cs",
+              "ToolTip": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\Poligono.cs",
+              "RelativeToolTip": "Poligono.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:04:31.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parte.cs",
+              "DocumentMoniker": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\Parte.cs",
+              "RelativeDocumentMoniker": "Parte.cs",
+              "ToolTip": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\Parte.cs",
+              "RelativeToolTip": "Parte.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:04:30.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Objeto.cs",
+              "DocumentMoniker": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\Objeto.cs",
+              "RelativeDocumentMoniker": "Objeto.cs",
+              "ToolTip": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\Objeto.cs",
+              "RelativeToolTip": "Objeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:04:28.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:04:17.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Escenario.cs",
+              "DocumentMoniker": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\Escenario.cs",
+              "RelativeDocumentMoniker": "Escenario.cs",
+              "ToolTip": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\Escenario.cs",
+              "RelativeToolTip": "Escenario.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:04:36.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Perro\\Desktop\\para estudiar\\clon\\Tarea3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:59:39.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

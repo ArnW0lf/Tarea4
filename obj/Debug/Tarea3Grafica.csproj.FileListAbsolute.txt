@@ -1,0 +1,84 @@
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\bin\Debug\Tarea3Grafica.exe.config
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\bin\Debug\Tarea3Grafica.exe
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\bin\Debug\Tarea3Grafica.pdb
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\bin\Debug\OpenTK.dll
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\bin\Debug\OpenTK.pdb
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\bin\Debug\OpenTK.xml
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\obj\Debug\Tarea3Grafica.csproj.AssemblyReference.cache
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\obj\Debug\Tarea3Grafica.csproj.CoreCompileInputs.cache
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\obj\Debug\Tarea3Grafica.csproj.CopyComplete
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\obj\Debug\Tarea3Grafica.exe
+C:\Users\JHAMIL\source\repos\Tarea3Grafica\obj\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\bin\Debug\Tarea3Grafica.exe.config
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\bin\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\bin\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\bin\Debug\OpenTK.dll
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\bin\Debug\OpenTK.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\bin\Debug\OpenTK.xml
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.csproj.AssemblyReference.cache
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.csproj.CoreCompileInputs.cache
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\obj\Debug\Tarea3Gr.FA4B2B5E.Up2Date
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\bin\Debug\Tarea3Grafica.exe.config
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\bin\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\bin\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\bin\Debug\OpenTK.dll
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\bin\Debug\OpenTK.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\bin\Debug\OpenTK.xml
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.csproj.AssemblyReference.cache
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.csproj.CoreCompileInputs.cache
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\obj\Debug\Tarea3Gr.FA4B2B5E.Up2Date
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\Nueva carpeta\de jamil\3raTareaGrafica\obj\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\bin\Debug\Tarea3Grafica.exe.config
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\bin\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\bin\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\bin\Debug\OpenTK.dll
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\bin\Debug\OpenTK.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\bin\Debug\OpenTK.xml
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\obj\Debug\Tarea3Grafica.csproj.AssemblyReference.cache
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\obj\Debug\Tarea3Grafica.csproj.CoreCompileInputs.cache
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\obj\Debug\Tarea3Gr.FA4B2B5E.Up2Date
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\obj\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea_3\Tarea3\obj\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\bin\Debug\Tarea3Grafica.exe.config
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\bin\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\bin\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\bin\Debug\OpenTK.dll
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\bin\Debug\OpenTK.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\bin\Debug\OpenTK.xml
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\obj\Debug\Tarea3Grafica.csproj.AssemblyReference.cache
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\obj\Debug\Tarea3Grafica.csproj.CoreCompileInputs.cache
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\obj\Debug\Tarea3Gr.FA4B2B5E.Up2Date
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\obj\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\TerceraTarea\Tarea3\obj\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\Tarea3Grafica.exe.config
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\OpenTK.dll
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\OpenTK.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\OpenTK.xml
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\obj\Debug\Tarea3Grafica.csproj.AssemblyReference.cache
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\obj\Debug\Tarea3Grafica.csproj.CoreCompileInputs.cache
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\obj\Debug\Tarea3Gr.FA4B2B5E.Up2Date
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\obj\Debug\Tarea3Grafica.exe
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\obj\Debug\Tarea3Grafica.pdb
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.Buffers.dll
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.Memory.dll
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.Text.Json.dll
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.ValueTuple.dll
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.Buffers.xml
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.Memory.xml
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.Text.Json.xml
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Perro\Desktop\para estudiar\clon\Tarea3\bin\Debug\System.ValueTuple.xml
